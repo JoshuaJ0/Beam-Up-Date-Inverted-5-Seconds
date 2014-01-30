@@ -804,7 +804,7 @@ DISCARD
  libm.a(*)
  libgcc.a(*)
  *(.eh_frame)
-OUTPUT(/Users/joshuajiang/Dropbox/Development/Pebble/beam-up-date-inverted-5sec/build/pebble-app.elf elf32-littlearm)
+OUTPUT(/Users/joshuajiang/Dropbox/Development/Pebble/Beam-Up-Date-Inverted-5-Seconds/build/pebble-app.elf elf32-littlearm)
 
 .ARM.attributes
                 0x0000000000000000       0x27
@@ -850,15 +850,15 @@ OUTPUT(/Users/joshuajiang/Dropbox/Development/Pebble/beam-up-date-inverted-5sec/
 .debug_ranges   0x0000000000000000       0x50
  .debug_ranges  0x0000000000000000       0x50 src/BeamUpInvDate.c.10.o
 
-.debug_line     0x0000000000000000      0x57c
- .debug_line    0x0000000000000000      0x44c src/BeamUpInvDate.c.10.o
- .debug_line    0x000000000000044c      0x130 appinfo.auto.c.10.o
+.debug_line     0x0000000000000000      0x581
+ .debug_line    0x0000000000000000      0x451 src/BeamUpInvDate.c.10.o
+ .debug_line    0x0000000000000451      0x130 appinfo.auto.c.10.o
 
-.debug_str      0x0000000000000000      0xb6e
- .debug_str     0x0000000000000000      0x97f src/BeamUpInvDate.c.10.o
-                                        0xa3b (size before relaxing)
- .debug_str     0x000000000000097f      0x1ef appinfo.auto.c.10.o
-                                        0x375 (size before relaxing)
+.debug_str      0x0000000000000000      0xb73
+ .debug_str     0x0000000000000000      0x984 src/BeamUpInvDate.c.10.o
+                                        0xa40 (size before relaxing)
+ .debug_str     0x0000000000000984      0x1ef appinfo.auto.c.10.o
+                                        0x37a (size before relaxing)
 
 .debug_frame    0x0000000000000000      0x114
  .debug_frame   0x0000000000000000      0x114 src/BeamUpInvDate.c.10.o

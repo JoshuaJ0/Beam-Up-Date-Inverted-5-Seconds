@@ -1,10 +1,10 @@
 {
     "versionLabel": "2.0.0",
-    "uuid": "085b5fe7-fcce-4fef-aa88-222695cf75de",
+    "uuid": "d466f7cb-6a30-4cb7-8bf2-3699f7c9c1c9",
     "appKeys": {
         "dummy": 0
     },
-    "longName": "Beam Up Inverted Date 5 second",
+    "longName": "Beam Up Inverted Date 5 seconds",
     "versionCode": 2,
     "shortName": "BeamUpInvDate5Sec",
     "companyName": "Joshua Jiang",
