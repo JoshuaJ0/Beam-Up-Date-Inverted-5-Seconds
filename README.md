@@ -14,6 +14,6 @@ The Beam Up watch face for the Pebble Smart Watch on SDK 2.0...with a twist!
 
 Has the date on the face, and it's inverted (black numbers, white background). The progress bar also moves on 5 second intervals.
 
-I will make one like this for the non-inveted version per request.
+I will make one like this for the non-inverted version per request.
 
 If you don't know how to install this on your device, view the built one here: *PLACEHOLDER*
