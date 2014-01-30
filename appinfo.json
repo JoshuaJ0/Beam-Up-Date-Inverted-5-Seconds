@@ -1,0 +1,34 @@
+{
+    "versionLabel": "2.0.0",
+    "uuid": "085b5fe7-fcce-4fef-aa88-222695cf75de",
+    "appKeys": {
+        "dummy": 0
+    },
+    "longName": "Beam Up Inverted Date 1 second",
+    "versionCode": 2,
+    "shortName": "BeamUpInvDate5Sec",
+    "companyName": "Joshua Jiang",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+              "type": "font",
+              "name": "FONT_IMAGINE_48",
+              "file": "fonts/imagine.ttf"
+            },
+            {
+              "menuIcon": true,
+              "type": "png",
+              "name": "IMAGE_MENU_ICON",
+              "file": "images/menu_icon.png"
+            },
+            {
+			        "name": "FONT_IMAGINE_24",
+			        "type": "font",
+			        "file": "fonts/imagine.ttf"
+        		}
+        ]
+    }
+}
